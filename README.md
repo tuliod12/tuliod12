@@ -1,4 +1,4 @@
-👋 Oii, sou Túlio Duarte, estudante de engenharia metalúrgica na UFMG e apaixonado por tecnologia e ciência de dados.
-👀 Estou interessado em divulgar meus projetos e aprendizado aqui.
-🌱 Atualmente tenho aprendido sobre ciência de dados, em especial linguagem python, DAX e M. Também desenvolvo soluções low code em power apps para a indústria.
-💞️ Estou interessado em projetos que envolvam análise de dados e desenvolvimento de sistemas. Tenho um interesse especial por projetos relacionados a indústria 4.0.
+-👋 Hi, I'm Túlio Duarte, a metallurgical engineering student and passionate about technology and data science.
+-👀 I'm interested in publishing my projects and learning here.
+-🌱 I currently have knowledge about data science, especially python, DAX and M languages. I also develop low code solutions in power apps for the industry.
+-💞️ I'm interested in projects that involve systems analysis. And I have a special interest in projects related to Industry 4.0.
